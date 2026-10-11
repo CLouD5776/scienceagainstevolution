@@ -1,3 +1,7 @@
-video/EFI.mp4
 music/TWWU120219.mp3
 music/TWWU170212.mp3
+
+# Private evidence and generated output are never staged.
+reports/
+*.bak
+_public/
